@@ -1,7 +1,7 @@
 {
-  "name": "card",
+  "name": "@faking-it/card",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my first attempt at creating a personnal simple card",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
